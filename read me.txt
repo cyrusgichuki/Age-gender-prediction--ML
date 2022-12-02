@@ -1,0 +1,2 @@
+email cyrogich@gmail.com for a trained model
+0.97 accuracy
